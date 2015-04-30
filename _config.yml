@@ -11,11 +11,10 @@ highlighter: pygments
 title : Greg Blake
 tagline: Site Tagline
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
-  feedburner : feedname
+  name : Greg Blake
+  email : greg@gregblake.net
+  github : gregblake
+  twitter : gregblake
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
